@@ -1,0 +1,7 @@
+C:\Users\fatmo\Grand Circus\Exercises\Linq\LinqStudentsAndNumbers\Students-Numbers\Students-Numbers\bin\Debug\Students-Numbers.exe.config
+C:\Users\fatmo\Grand Circus\Exercises\Linq\LinqStudentsAndNumbers\Students-Numbers\Students-Numbers\bin\Debug\Students-Numbers.exe
+C:\Users\fatmo\Grand Circus\Exercises\Linq\LinqStudentsAndNumbers\Students-Numbers\Students-Numbers\bin\Debug\Students-Numbers.pdb
+C:\Users\fatmo\Grand Circus\Exercises\Linq\LinqStudentsAndNumbers\Students-Numbers\Students-Numbers\obj\Debug\Students-Numbers.csprojAssemblyReference.cache
+C:\Users\fatmo\Grand Circus\Exercises\Linq\LinqStudentsAndNumbers\Students-Numbers\Students-Numbers\obj\Debug\Students-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\fatmo\Grand Circus\Exercises\Linq\LinqStudentsAndNumbers\Students-Numbers\Students-Numbers\obj\Debug\Students-Numbers.exe
+C:\Users\fatmo\Grand Circus\Exercises\Linq\LinqStudentsAndNumbers\Students-Numbers\Students-Numbers\obj\Debug\Students-Numbers.pdb
